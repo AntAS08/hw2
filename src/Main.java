@@ -68,7 +68,7 @@ public class Main {
         totalWorker=totalWorker+94;
         System.out.println(totalWorker);
         totalHours=totalWorker*8;
-        System.out.println("Если в компании работает"+totalWorker +"человек" + "то всего"+ totalHours + "часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает"+totalWorker +"человек" + "то всего"+totalHours +"часов работы может быть поделено между сотрудниками!");
 
 
 
